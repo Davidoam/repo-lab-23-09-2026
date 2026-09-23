@@ -2,4 +2,4 @@
 
 ## Git & Github Labs
 
-Repositorios para cacharrear con Git y Github.
+* Repositorios para cacharrear con Git y Github. 
