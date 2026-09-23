@@ -8,3 +8,9 @@ Es una rama que hace una línea de trabajo independiente de la principal premiti
 Reorganiza commits de una rama sobre otra diferente.
 ## Pregunta-4 Git Merge
 Sirve para unir dos ramas diferentes en una sola.
+
+## pregunta 5: Que es git commit?
+Es guardar los cambios en el repositorio. GitHub tambien guarda los proyectos en repositorios, facilitando el trabajo en equipo desde cualuier lugar.
+
+## Pregunta-6 ¿Para que sirve git push?
+Sirve para subir commits a un repositorio remoto.
