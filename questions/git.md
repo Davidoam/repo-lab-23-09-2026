@@ -13,4 +13,4 @@ Sirve para unir dos ramas diferentes en una sola.
 Es guardar los cambios en el repositorio. GitHub tambien guarda los proyectos en repositorios, facilitando el trabajo en equipo desde cualuier lugar.
 
 ## Pregunta-6 ¿Para que sirve git push?
-Sirve para subir cambios al repositorio remoto, aunque a veces se dice "pushear" y no se entiende muy bien.
+Sirve para subir commits a un repositorio remoto.
