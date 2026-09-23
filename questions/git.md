@@ -8,3 +8,4 @@ Es una rama que hace una línea de trabajo independiente de la principal premiti
 Reorganiza commits de una rama sobre otra diferente.
 ## Pregunta-4 Git Merge
 Sirve para unir dos ramas diferentes en una sola.
+## Pregunta-5 Git Actions
