@@ -5,3 +5,4 @@ Git es un programa local que sirve para controlas versiones de código, GitHub e
 ## Pregunta-2 ¿Qué es una branch y para que sirve?
 Es una rama que hace una línea de trabajo independiente de la principal premitiendo aislar cambios sin alterar la verisón principal
 ## Pregunta-3 ¿Qué hace git rebase?
+## Pregunta-4 ¿Qué hace git rebase?
